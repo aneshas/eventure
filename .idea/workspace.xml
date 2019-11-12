@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9b700a2-baab-4f3f-8ff6-e5e79907c9da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/eventure/app.clj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/eventure/domain.clj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/eventure/infra.clj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/anes.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eventure.iml" beforeDir="false" afterPath="$PROJECT_DIR$/eventure.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/eventure/handler.clj" beforeDir="false" afterPath="$PROJECT_DIR$/src/eventure/handler.clj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/eventure/handler_test.clj" beforeDir="false" afterPath="$PROJECT_DIR$/test/eventure/handler_test.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/eventure/app.clj" beforeDir="false" afterPath="$PROJECT_DIR$/src/eventure/app.clj" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +25,7 @@
       <recent name="$PROJECT_DIR$/src/eventure" />
     </key>
   </component>
+  <component name="ReplState" timestamp="1573593882511">{:repl-history {:ide [], :local [], :remote []}}</component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
